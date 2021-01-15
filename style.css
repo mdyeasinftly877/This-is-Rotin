@@ -1,0 +1,78 @@
+
+.this-first{
+    text-align: center;
+    text-decoration: underline;
+    color: green;
+}
+
+
+.full-rotin{
+    margin-top: 23px;
+    margin-left: 275px;
+    
+   
+}
+
+.th-ali{
+    text-align: center;
+    width: 200px;
+    border: none;
+    border-bottom: 1px solid black;
+    font-family: sans-serif;
+    border-right: 1px solid black;
+    background: rgb(119, 42, 42);
+    color: white;
+    box-shadow: 2px 2px 33px rgb(247, 29, 22);
+}
+
+.this-other{
+    text-align: center;
+    font-family: sans-serif;
+    border-right: 1px solid black;
+    background: rgb(119, 42, 42);
+    color: white;
+}
+.this-title{
+    font-size: 23px;
+    color: rgb(238, 255, 0);
+    font-family: sans-serif;
+    border: none;
+    border-bottom: 1px solid black;
+    background: rgb(88, 58, 38);
+    box-shadow: 2px 2px 33px rgb(247, 22, 22);
+}
+
+
+.this-bot{
+    border-bottom: 1px solid black;
+    text-align: center;
+    font-size: 22px;
+    font-family: sans-serif;
+    background: rgb(103, 233, 71);
+    color: rgb(0, 0, 0);
+    box-shadow: 2px 2px 33px rgb(103, 233, 71);
+    
+   
+}
+
+
+.this-bot:hover{
+    color: white;
+    background:   rgb(119, 42, 42);
+    box-shadow: 2px 2px 33px rgb(247, 29, 22);
+    transition: .3s;
+    cursor: pointer;
+   
+}
+
+.this-right{
+    border-right: 1px solid black;
+}
+
+
+.footer p{
+    text-align: center;
+    color: rgb(0, 0, 0);
+   
+   
+}
